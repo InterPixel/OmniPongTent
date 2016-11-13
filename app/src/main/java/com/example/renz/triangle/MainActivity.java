@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity implements GLSurfaceView.Ren
 
     int _program = 0;
 
-    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         GLSurfaceView glView = new GLSurfaceView(this);
@@ -31,42 +30,34 @@ public class MainActivity extends AppCompatActivity implements GLSurfaceView.Ren
 
         //Menurut kaidah yang sesuai, code yg di comment ini diperlukan
         //namun entah kenapa kalo di comment malah bisa jalan
-//        String vertexShaderSource = "" +
-//                "" +
-//                "attribute vec4 position;" +
-//                "" +
-//                "void main()" +
-//                "{" +
-//                "     gl_Position = position;" +
-//                "}";
-//
-//        String fragmentShaderSource = "" +
-//                "" +
-//                "" +
-//                "void main()" +
-//                "{" +
-//                "     gl_FragColor = vec4(0.8, 0.7, 0.6, 1.0);" +
-//                "}" ;
+        String vertexShaderSource =
+                "attribute vec4 position;" +
+                "void main() {" +
+                "     gl_Position = position;" +
+                "}";
 
-//        int vertexShader = GLES20.glCreateShader(GLES20.GL_VERTEX_SHADER);
-//        GLES20.glShaderSource(vertexShader, vertexShaderSource);
-//        GLES20.glCompileShader(vertexShader);
-//        String vertexShaderInfoLog = GLES20.glGetShaderInfoLog(vertexShader);
-//
-//        int fragmentShader = GLES20.glCreateShader(GLES20.GL_FRAGMENT_SHADER);
-//        GLES20.glShaderSource(fragmentShader, fragmentShaderSource);
-//        GLES20.glCompileShader(fragmentShader);
-//        String fragmentShaderInfoLog = GLES20.glGetShaderInfoLog(fragmentShader);
-//
-//        _program = GLES20.glCreateProgram();
-//        GLES20.glAttachShader(_program, vertexShader);
-//        GLES20.glAttachShader(_program, fragmentShader);
-//        GLES20.glBindAttribLocation(_program, 0, "position");
-//        GLES20.glLinkProgram(_program);
-//        String programLinkLog = GLES20.glGetProgramInfoLog(_program);
-//
-//        GLES20.glUseProgram(_program);
+        String fragmentShaderSource =
+                "void main() {" +
+                "     gl_FragColor = vec4(0.8, 0.7, 0.1, 0.2);" +
+                "}" ;
+        int vertexShader = GLES20.glCreateShader(GLES20.GL_VERTEX_SHADER);
+        GLES20.glShaderSource(vertexShader, vertexShaderSource);
+        GLES20.glCompileShader(vertexShader);
+        String vertexShaderInfoLog = GLES20.glGetShaderInfoLog(vertexShader);
 
+        int fragmentShader = GLES20.glCreateShader(GLES20.GL_FRAGMENT_SHADER);
+        GLES20.glShaderSource(fragmentShader, fragmentShaderSource);
+        GLES20.glCompileShader(fragmentShader);
+        String fragmentShaderInfoLog = GLES20.glGetShaderInfoLog(fragmentShader);
+
+       _program = GLES20.glCreateProgram();
+        GLES20.glAttachShader(_program, vertexShader);
+        GLES20.glAttachShader(_program, fragmentShader);
+        GLES20.glBindAttribLocation(_program, 0, "position");
+        GLES20.glLinkProgram(_program);
+        String programLinkLog = GLES20.glGetProgramInfoLog(_program);
+
+        GLES20.glUseProgram(_program);
         GLES20.glClearColor(0.2f, 0.6f, 0.6f, 1.0f);
     }
 

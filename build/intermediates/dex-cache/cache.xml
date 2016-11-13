@@ -2,157 +2,139 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="10b7eca26b0d1de77f0b44545e66c953acf52ca1">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13e168ad2c05f2732508913b1fcd90bcb5dd1bee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ceb55d61a51287cdbce886e33931439b1735ecc1/classes.dex" />
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_da32256569d1dedddc419a02bfaaa13ddb7a6795.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_cf48de225cff68811d6d214b653327b235e63fd0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_f262c6b7f46d2dc6b6b2431f377486cffe5cee66/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_4003012e3fe9ae99b501b2a53ccc296f6356422f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_5699c23235ef4ff92a874babbed2fd2e5b376445/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_c4db8beacfcbd47cca3b10a2dfa7ebf25ef15264/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d0ed771b4558d6b37c586b673e20395497335415">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_794de64bea5b3b670be8ca87fe0c1c3609fe9632/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3bdb70e2087b753a44e4e0aa6f13172b6d91c821/classes.dex" />
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d777fe9f7abca1d94d01cc5c34f6302fdae5b98a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_2feacf356fe2c80702d2182d08a17e335c4cc74c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_675c081405bb9d3116e2f2e2cc09a60ac87e9573/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_c3c45ae682a963a777511edf68b727cd17395290/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_14d1f0019572eaadcdca94513549b36838d671ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_73310716212817e169b84b3ad51c085281b2f046/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_4571a884e56520da8c5366064c60a7ad19221c8e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f4ae30e20417288caf73aa6f42b3b93a177da588/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/home/renz/AndroidStudioProjects/Triangle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5c688350154507d162609e6718325a0986927ab9/classes.dex" />
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8bca0b7e9beffcdbed735adae0339d34f53707b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_3f5df346d8e74d8ec69956971087629d6d92a7e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_29e976e32e63c8448fae1d318309d756ee95b103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_b8f320e33e0acd3f4d1d068d28d344cdee1064d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_85513fc40f80d27c328fccd562f90c6b66a9a044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c0eb4a04618bb6b9377799e8eb65d350fd048f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_729dfde4ab38e60c8cdb7356b56a707f4f9653d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_7114624dc20b9e4c463d40551dfedd5a8969081f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_8f8aedb401329c7c10b51d6fa2b71f723e3f0df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_160a1753118c1b5d2107bbfc9fa0171459b1eb52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_4324792b4a1ede7721171be6e2201c2375a7d2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_0d2983ed15194a2ba486821b6c435b7a3da05473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/media/zenados/Data/Programs/Projects/OmniPongTent/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_10463432936b675217d9b2ffeddbf4e59b4b6502.jar" />
     </item>
 
 </items>

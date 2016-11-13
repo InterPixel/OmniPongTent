@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Triangle.iml" filepath="$PROJECT_DIR$/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OmniPongTent.iml" filepath="$PROJECT_DIR$/OmniPongTent.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
